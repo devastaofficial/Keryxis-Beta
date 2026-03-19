@@ -1,5 +1,4 @@
-# Keryxis-Beta
-🚀 Keryxis
+🚀 Keryxis-Beta
 The RAM-Resident Hybrid Kernel OS
 
 Keryxis is built for the hardware modern operating systems left behind.
@@ -24,11 +23,23 @@ Keryxis is designed to do the opposite:
 
 Your system should work for you — not fight you.
 
+🎯 Design Goals
+
+Boot fast, stay fast
+
+Idle means actually idle
+
+No hidden background activity
+
+Scale from legacy hardware to modern systems
+
+Keep the system understandable, not opaque
+
 🧠 Architecture
 
 Keryxis uses a hybrid kernel design:
 
-A lean monolithic core for maximum performance
+A lean monolithic core (scheduler, memory manager, and drivers tightly integrated)
 
 Modular services for flexibility and stability
 
@@ -45,7 +56,7 @@ Not dependent on the cloud
 Not filled with background services you didn’t ask for
 
 If you’re looking for built-in assistants, tracking, and “helpful” suggestions…
-you already have options (👀 Microsoft).
+you already have options (👀 Microsoft knows the type).
 
 🛡️ Hardware Requirements
 
@@ -70,15 +81,15 @@ Recommended (Where it starts flying)
 
 CPU: Modern multi-core processor
 
-RAM: 16–32 GB
+RAM: 4 GB+
 
 Storage: SSD or NVMe
 
-GPU: Any modern integrated or discrete GPU
+GPU: Any modern integrated or discrete GPU (must be able to render whatever “homework” you’re doing — nothing more)
 
-The more you give it, the less it wastes.
+The more you give, the more we optimize — using only what we need and leaving more than enough for your “homework.” Yup, we’re looking at you. 🫵
 
-⚡ Performance Model
+⚡ Performance Principles
 
 Keryxis focuses on:
 
