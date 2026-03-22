@@ -77,7 +77,8 @@ The more you give, the more we optimize—leaving more than enough for your “h
 
 The Kernel: Keryxis utilizes a modified Linux kernel (GPLv2). Source code is available in the /kernel directory. Everything other than the kernel(which is already custom-stripped down by us for our needs) is proprietary and owned by us, but is completely free to use
 
-#### DISCLAIMER: Keryxis does not support kernel-level anti-cheats (e.g., Riot Vanguard). These drivers are hardcoded for Windows. Running them on Keryxis may result in bans because of the game flagging the kernel as unsigned. Use native-supported games for the best experience for gaming.
+#### DISCLAIMER:
+Keryxis does not support kernel-level anti-cheats (e.g., Riot Vanguard). These drivers are hardcoded for Windows. Running them on Keryxis may result in bans because of the game flagging the kernel as unsigned. Use native-supported games for the best experience for gaming.
 
 ***
 
