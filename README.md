@@ -2,7 +2,7 @@
 
 #### "We don't want your data, we have our own."
 
-Keryxis is a performance-first, privacy-hardened OS built for the hardware modern systems left behind. No telemetry. No background bloat. No forced features. Just a clean, purple-blue engine that respects your machine—whether it’s a 2010 potato with 2 GB RAM or a 5 GHz workstation.
+Keryxis is a performance-first, privacy-hardened OS built for the hardware modern systems left behind. No telemetry. No background bloat. No forced features. Just a clean, purple-blue engine that respects your machine — whether it’s a 2010 potato with 2 GB RAM or a 5 GHz workstation.
 
 ***
 
@@ -28,7 +28,7 @@ The Boot: At startup, the core system image is loaded entirely into RAM.
 
 The Result: System calls and UI transitions happen at memory speeds. 1 GHz feels like a Threadripper.
 
-The Drive: Your disk is for your data—not for the OS to play with. This keeps the bus open for what matters.
+The Drive: Your disk is for your data — not for the OS to play with. This keeps the bus open for what matters.
 
 ***
 
@@ -46,7 +46,7 @@ The  App Launcher: One button, 25% of the screen, all your apps. No folders, no 
 
 We didn't write our own file system. Instead, we use a high-performance hybrid stack to give you the best of both worlds:
 
-🚀 System Partition (F2FS): The OS lives on a Flash-Friendly File System. It’s ultra-fast, optimized for SSD/NVMe, and keeps your Ring 3 security tight. (Note: Windows can't see this, which keeps your system files safe from "accidental" Microsoft meddling).
+🚀 System Partition (F2FS): The OS lives on a Flash-Friendly File System. It’s ultra-fast, optimised for SSD/NVMe, and keeps your Ring 3 security tight. (Note: Windows can't see this, which keeps your system files safe from "accidental" Microsoft meddling).
 
 🤝 Data Partition (exFAT): Keryxis automatically creates a secondary partition formatted in exFAT. Since every OS on earth speaks exFAT, you can plug your drive into a Windows PC or a Mac and your "homework" will be right there.
 
@@ -92,6 +92,6 @@ It is openly under passionate development and is more than happy to include more
 
 Join the Team:
 
-If you’re good at kernel dev or just want to help us optimize the purple-blue UI, open a PR. Let's show the world what optimized software actually looks like.
+If you’re good at kernel dev or just want to help us optimize the purple-blue UI, open a PR. Let's show the world what optimised software actually looks like.
 
 "Runs on anything. Flies on everything."
