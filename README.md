@@ -30,6 +30,8 @@ The Result: System calls and UI transitions happen at memory speeds. 1 GHz feels
 
 The Drive: Your disk is for your data—not for the OS to play with. This keeps the bus open for what matters.
 
+***
+
 ### 🎯 Design Goals
 
 Instant UI: A custom Ring 3 compositor themed in deep Purple & Blue.
