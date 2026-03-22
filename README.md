@@ -6,7 +6,7 @@ Keryxis is a performance-first, privacy-hardened OS built for the hardware moder
 
 ⚡ The Philosophy
 
-Most operating systems don’t slow down because your hardware is bad. They slow down because they waste it. Keryxis is designed to do the opposite:
+Most operating systems slow down because they waste your CPU cycles. We don't. We also didn't want to spend ten years writing a custom file system that Windows and Mac can read (we're developers, not masochists), so we took the best existing tech and tuned it for speed.
 
 🧠 Use only what’s needed: Minimalist by design.
 
@@ -33,6 +33,13 @@ Instant UI: A custom Ring 3 compositor themed in deep Purple & Blue.
 The  App Launcher: One button, 25% of the screen, all your apps. No folders, no "suggested" junk.
 
 "Everything" Search: Integrated kernel-level indexing. Scan once at boot, search instantly forever.
+
+💾 Storage & Compatibility
+
+We all know how annoying it is to find a way to make your Windows formatted drive be seen on a Mac and vice-versa, etc, to combat this, we have made the following 
+solution:
+
+The original OS partition on the drive will be formatted as F2FS(Flash-Friendly File System), which Windows cannot read natively, sadly, but to make it still "work", we can make a separate partition that is formatted as exFAT, which is cross-compatibile with Windows, Linux, and MacOS.
 
 🛡️ Hardware Requirements
 
