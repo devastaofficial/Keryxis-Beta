@@ -56,7 +56,7 @@ We didn't write our own file system. Instead, we use a high-performance hybrid s
 
 No artificial restrictions. No TPM nonsense. No "minimum version" checks.
 
-Minimum (The "Closet Laptop")	
+Minimum Specs to boot and get it running:
 
 CPU	1 GHz+ 64-bit	
 
@@ -68,7 +68,7 @@ Storage	4 GB Partition
 
 Basic Display Output	
 
-Recommended (The "Flying" Tier)
+Recommended specs to make it feel insanely fast:
 
 Any "relevant-in-this-era" components, preferrably at least 4 GB RAM(since 8 GB is the bare-minimum nowadays)
 
