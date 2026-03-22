@@ -41,9 +41,13 @@ No artificial restrictions. No TPM nonsense. No "minimum version" checks.
 Minimum (The "Closet Laptop")	
 
 CPU	1 GHz+ 64-bit	
+
 L3 Cache	2 MB 
+
 RAM	1 GB	
+
 Storage	4 GB Partition	
+
 Basic Display Output	
 
 Recommended (The "Flying" Tier)
