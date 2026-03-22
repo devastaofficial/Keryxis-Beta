@@ -37,14 +37,19 @@ The  App Launcher: One button, 25% of the screen, all your apps. No folders, no 
 🛡️ Hardware Requirements
 
 No artificial restrictions. No TPM nonsense. No "minimum version" checks.
-Feature	Minimum (The "Closet Laptop")	
-CPU	1 GHz+ 64-bit	Modern Multi-core (9700X/5070 Tier)
-L3 Cache	2 MB (Our Sweet Spot)	32 MB+
-RAM	1 GB	4 GB+ (RAM-Resident mode)
-Storage	4 GB Partition	SSD/NVMe (Gen 4/5)
-Display	Basic Display Output	180Hz / 1440p
+
+Minimum (The "Closet Laptop")	
+
+CPU	1 GHz+ 64-bit	
+L3 Cache	2 MB 
+RAM	1 GB	
+Storage	4 GB Partition	
+Basic Display Output	
+
 Recommended (The "Flying" Tier)
+
 Any "relevant-in-this-era" components, preferrably at least 4 GB RAM(since 8 GB is the bare-minimum nowadays)
+
 The more you give, the more we optimize—leaving more than enough for your “homework.” Yup, we’re looking at you. 🫵
 
 🧩 Compatibility & Legal
