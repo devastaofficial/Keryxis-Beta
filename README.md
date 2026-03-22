@@ -7,22 +7,32 @@ Keryxis is a performance-first, privacy-hardened OS built for the hardware moder
 ⚡ The Philosophy
 
 Most operating systems don’t slow down because your hardware is bad. They slow down because they waste it. Keryxis is designed to do the opposite:
+
 🧠 Use only what’s needed: Minimalist by design.
+
 🔒 Zero Leaks: We don't want your data. Period.
+
 ⚙️ Predictable Load: Zero background "indexing" or hidden spikes.
+
 🚫 No Bloat: We cut the abstractions that turn a 1 GHz CPU into a paperweight.
+
 🏗️ Architecture: The RAM-Resident Edge
+
 Unlike Windows, which "thrashes" your disk, Keryxis is a RAM-Resident Hybrid.
+
 The Boot: At startup, the core system image is loaded entirely into RAM.
+
 The Result: System calls and UI transitions happen at memory speeds. 1 GHz feels like a Threadripper.
+
 The Drive: Your disk is for your data—not for the OS to play with. This keeps the bus open for what matters.
 
 🎯 Design Goals
 
 Instant UI: A custom Ring 3 compositor themed in deep Purple & Blue.
-The 25% Launcher: One button, 25% of the screen, all your apps. No folders, no "suggested" junk.
+
+The  App Launcher: One button, 25% of the screen, all your apps. No folders, no "suggested" junk.
+
 "Everything" Search: Integrated kernel-level indexing. Scan once at boot, search instantly forever.
-180Hz Native: Optimized for high-refresh gaming and development without the "OS tax."
 
 🛡️ Hardware Requirements
 
