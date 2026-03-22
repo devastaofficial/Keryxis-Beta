@@ -42,10 +42,11 @@ The  App Launcher: One button, 25% of the screen, all your apps. No folders, no 
 
 ### 💾 Storage & Compatibility
 
-We all know how annoying it is to find a way to make your Windows formatted drive be seen on a Mac and vice-versa, etc, to combat this, we have made the following 
-solution:
+We didn't write our own file system. Instead, we use a high-performance hybrid stack to give you the best of both worlds:
 
-The original OS partition on the drive will be formatted as F2FS(Flash-Friendly File System), which Windows cannot read natively, sadly, but to make it still "work", we can make a separate partition that is formatted as exFAT, which is cross-compatibile with Windows, Linux, and MacOS.
+🚀 System Partition (F2FS): The OS lives on a Flash-Friendly File System. It’s ultra-fast, optimized for SSD/NVMe, and keeps your Ring 3 security tight. (Note: Windows can't see this, which keeps your system files safe from "accidental" Microsoft meddling).
+
+🤝 Data Partition (exFAT): Keryxis automatically creates a secondary partition formatted in exFAT. Since every OS on earth speaks exFAT, you can plug your drive into a Windows PC or a Mac and your "homework" will be right there.
 
 ***
 
