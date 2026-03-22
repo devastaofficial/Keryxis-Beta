@@ -46,7 +46,9 @@ The Anti-Cheat Disclaimer: Keryxis does not support kernel-level anti-cheats (e.
 
 Keryxis is currently in Early Beta.
 It is openly under passionate development and is more than happy to include more developers in this software movement.
+
 Join the Team:
+
 If you know your way around an MFT or a syscall table, open a PR. Let's show the world what optimized software actually looks like.
 
 "Runs on anything. Flies on everything."
