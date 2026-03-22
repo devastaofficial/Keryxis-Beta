@@ -1,6 +1,6 @@
 # 🌌 Keryxis-Beta
 
-"We don't want your data, we have our own."
+#### "We don't want your data, we have our own."
 
 Keryxis is a performance-first, privacy-hardened OS built for the hardware modern systems left behind. No telemetry. No background bloat. No forced features. Just a clean, purple-blue engine that respects your machine—whether it’s a 2010 potato with 2 GB RAM or a 5 GHz workstation.
 
@@ -92,6 +92,6 @@ It is openly under passionate development and is more than happy to include more
 
 Join the Team:
 
-If you know your way around an MFT or a syscall table, open a PR. Let's show the world what optimized software actually looks like.
+If you’re good at kernel dev or just want to help us optimize the purple-blue UI, open a PR. Let's show the world what optimized software actually looks like.
 
 "Runs on anything. Flies on everything."
